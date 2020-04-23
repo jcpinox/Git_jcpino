@@ -1,2 +1,2 @@
-# Git desde cero
+# Git desde cero en JCPINOX...
 
